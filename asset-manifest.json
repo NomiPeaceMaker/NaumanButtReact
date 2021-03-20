@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NaumanButtReact/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/NaumanButtReact/static/js/main.857f713d.chunk.js",
-    "main.js.map": "/NaumanButtReact/static/js/main.857f713d.chunk.js.map",
+    "main.js": "/NaumanButtReact/static/js/main.b4251769.chunk.js",
+    "main.js.map": "/NaumanButtReact/static/js/main.b4251769.chunk.js.map",
     "runtime-main.js": "/NaumanButtReact/static/js/runtime-main.d644d886.js",
     "runtime-main.js.map": "/NaumanButtReact/static/js/runtime-main.d644d886.js.map",
     "static/js/2.271419f7.chunk.js": "/NaumanButtReact/static/js/2.271419f7.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d644d886.js",
     "static/js/2.271419f7.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.857f713d.chunk.js"
+    "static/js/main.b4251769.chunk.js"
   ]
 }
