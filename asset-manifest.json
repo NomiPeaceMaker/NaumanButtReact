@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nauman_website/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/nauman_website/static/js/main.d2ddda02.chunk.js",
+    "main.js.map": "/nauman_website/static/js/main.d2ddda02.chunk.js.map",
+    "runtime-main.js": "/nauman_website/static/js/runtime-main.76321aba.js",
+    "runtime-main.js.map": "/nauman_website/static/js/runtime-main.76321aba.js.map",
+    "static/js/2.271419f7.chunk.js": "/nauman_website/static/js/2.271419f7.chunk.js",
+    "static/js/2.271419f7.chunk.js.map": "/nauman_website/static/js/2.271419f7.chunk.js.map",
+    "static/js/3.b581018f.chunk.js": "/nauman_website/static/js/3.b581018f.chunk.js",
+    "static/js/3.b581018f.chunk.js.map": "/nauman_website/static/js/3.b581018f.chunk.js.map",
+    "index.html": "/nauman_website/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/nauman_website/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.271419f7.chunk.js.LICENSE.txt": "/nauman_website/static/js/2.271419f7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nauman_website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76321aba.js",
+    "static/js/2.271419f7.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d2ddda02.chunk.js"
+  ]
+}
